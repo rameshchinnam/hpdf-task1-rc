@@ -2,11 +2,14 @@ This repository is for some sample tasks completed while learning node.js with e
 To get this working you need to follow the below steps:
 1) Download and install node.js
 2) Install express framework
-3) clone the repository and download it to your machine
-4) Start the server at the command prompt in the root folder
+   npm install express --save
+3) Install cookie-parser
+     npm install cookie-parser
+4) clone the repository and download it to your machine
+5) Start the server at the command prompt in the root folder
    node index.js
    This will start the web server to listen on the port 8000
-5) Request the below end point urls to test the sample tasks
+6) Request the below end point urls to test the sample tasks
    a) Hello World:
       http://localhost:8000/
    b) Get information from a public website, summarize and display
