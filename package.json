@@ -1,0 +1,25 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Hasura Task1 for NodeJS-Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "HPDFTask1-RC"
+  },
+  "keywords": [
+    "Hasura",
+    "HPDF",
+    "Task1",
+    "NodeJS-Express",
+    "RC"
+  ],
+  "author": "RC",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
